@@ -363,20 +363,9 @@ body {
   width: 100%;
   color: white;
   background-color: rgb(12, 12, 12);
-  padding: 4em 0;
+  padding: 2em 0;
   text-align: center;
   line-height: 2em;
-}
-
-#main-footer a {
-  text-decoration: none;
-  padding: 20px 5px;
-  color: white;
-  font-size: 2em;
-}
-
-#main-footer i:hover {
-  color: #de0000;
 }
 
 /*Para ecras muito grandes   */
@@ -442,6 +431,7 @@ body {
     height: auto;
   }
 }
+
 /* Para ecrãs médios como dos tablest e pcs pequenos */
 
 @media (max-width: 1023px) {
@@ -578,12 +568,10 @@ body {
   .nav-itens {
     margin-top: 2em;
   }
-
   /* -----------bio----------- */
   .info {
     grid-template-columns: 1fr;
   }
-
   .foto {
     grid-column: 1;
     grid-row: 4;
@@ -592,7 +580,6 @@ body {
     width: 330px;
     height: auto;
   }
-
   /* contacto */
   /* #intro {
     display: grid;
