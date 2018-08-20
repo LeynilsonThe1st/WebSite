@@ -597,6 +597,9 @@ body {
 }
 
 @media (min-width: 280px) and (max-width: 400px) {
+  .comp .b-red-text {
+    font-size: 1.5em;
+  }
   .alinhador {
     width: 90%;
   }
