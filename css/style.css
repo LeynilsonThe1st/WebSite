@@ -453,7 +453,7 @@ body {
   .nav {
     text-align: center;
     background-color: #212121ee;
-    width: 60%;
+    width: 65%;
     height: 100vh;
     z-index: 1;
     position: fixed;
@@ -560,7 +560,7 @@ body {
 @media (max-width: 799px) {
   /* Barra de navegaçáo */
   .nav {
-    width: 60%;
+    width: 70%;
   }
   #logo {
     margin: 2em auto;
